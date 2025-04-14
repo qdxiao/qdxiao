@@ -24,7 +24,7 @@
 ⏱ 实时监控中间件 | 📈 Prometheus集成 | � 分布式追踪支持
 ![GitHub stars](https://img.shields.io/github/stars/qdxiao/metrics-middleware?style=for-the-badge&color=00F7FF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qdxiao/metrics-middleware?style=for-the-badge&color=6A5ACD)
-``go
+```go  
 package main
 
 import (
@@ -37,7 +37,7 @@ mmw := metrics.NewMiddleware()
 http.Handle("/metrics", mmw.Handler())
 http.ListenAndServe(":8080", nil)
 }
-
+```
 ## 📊 技术全景
 
 <div align="center">
