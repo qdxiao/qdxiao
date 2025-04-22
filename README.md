@@ -1,5 +1,3 @@
-# 👋 你好，我是云间莱客工作室创始人
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;技术极客" alt="Typing SVG" />
 </div>
